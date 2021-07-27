@@ -1,4 +1,8 @@
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=b2ed72&height=300&section=header&text=Coding%20hanee&fontSize=60&fontColor=ffffff)
 ### 🌱 I’m currently learning ...
+
+
 
 <!--
 **harloxx/harloxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

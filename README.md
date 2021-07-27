@@ -4,8 +4,9 @@
 
 <div align="center">  
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=b2ed72&height=300&section=header&text=Coding%20hanee&fontSize=60&fontColor=ffffff)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=b2ed72&height=270&section=header&text=Coding%20hanee&fontSize=60&fontColor=ffffff)
 
+  ## Hi there 🖐  I am Ha Eun Kim <br/><br/><br/> I'm majoring <br/><br/>🔒CYBER SECURITY🔒 <br/><br/>at<br/><br/> 🌳Ewha Womans University🌺<br/><br/><br/>
   
   ### 🌱 I’m currently learning ... 
   

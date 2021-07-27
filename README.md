@@ -1,9 +1,11 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=b2ed72&height=300&section=header&text=Coding%20hanee&fontSize=60&fontColor=ffffff)
 
 
 
-<div align="center">
+<div align="center">  
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=b2ed72&height=300&section=header&text=Coding%20hanee&fontSize=60&fontColor=ffffff)
+
   
   ### 🌱 I’m currently learning ... 
   
@@ -17,10 +19,14 @@
 
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
+  
+ <br/>
   <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/>
   <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <br/><br/><br/>
+  
   
   ### ⚡ I've used 
   
@@ -30,7 +36,10 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>   <br/><br/><br/>
+  
+  ![footer](https://capsule-render.vercel.app/api??type=waving&color=b2ed72&section=footer)
+
   
 </div>
 

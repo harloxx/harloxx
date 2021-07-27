@@ -6,12 +6,13 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=b2ed72&height=270&section=header&text=Coding%20hanee&fontSize=60&fontColor=ffffff)
 
-  ## majoring <br/><br/>🔒CYBER SECURITY🔒 <br/><br/>at<br/><br/> 🌳Ewha Womans University🌺<br/><br/><br/>
+  ## majoring 🔒CYBER SECURITY🔒 at<br/><br/> 🌳Ewha Womans University🌺<br/><br/><br/>
   
   ### 🌱 I’m currently learning ... 
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  <br/>
 
 
@@ -21,7 +22,9 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
+  
   
  <br/>
   <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/>

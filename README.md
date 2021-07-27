@@ -1,12 +1,10 @@
 
 
-
-
 <div align="center">  
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=b2ed72&height=270&section=header&text=Coding%20hanee&fontSize=60&fontColor=ffffff)
+  
 
-  ## majoring 🔒CYBER SECURITY🔒 at<br/><br/> 🌳Ewha Womans University🌺<br/><br/><br/>
+  ## Majoring 🔒CYBER SECURITY🔒 at<br/><br/> 🌳Ewha Womans University🌺<br/><br/><br/>
   
   ### 🌱 I’m currently learning ... 
   
@@ -41,8 +39,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>   <br/><br/><br/>
-  
-  ![footer](https://capsule-render.vercel.app/api??type=waving&color=b2ed72&section=footer)
+
 
   
 </div>
@@ -51,6 +48,11 @@
 
 
 <!--
+![header](https://capsule-render.vercel.app/api?type=waving&color=b2ed72&height=270&section=header&text=Coding%20hanee&fontSize=60&fontColor=ffffff)
+  
+  ![footer](https://capsule-render.vercel.app/api??type=waving&color=b2ed72&section=footer)
+
+
 **harloxx/harloxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

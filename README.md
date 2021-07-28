@@ -3,9 +3,6 @@
 <div align="center">  
   
   
-
-  ## Majoring 🔒CYBER SECURITY🔒 at<br/><br/> 🌳Ewha Womans University🌺<br/><br/><br/>
-  
   ### 🌱 I’m currently learning ... 
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -49,6 +46,10 @@
 
 
 <!--
+
+  
+
+  ## Majoring 🔒CYBER SECURITY🔒 at<br/><br/> 🌳Ewha Womans University🌺<br/><br/><br/>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=b2ed72&height=270&section=header&text=Coding%20hanee&fontSize=60&fontColor=ffffff)
   
   ![footer](https://capsule-render.vercel.app/api??type=waving&color=b2ed72&section=footer)

@@ -5,6 +5,7 @@
 
 ✏️   → [TISTORY](https://hanahana.tistory.com)
 
+<br/>
 
 - Status  
   - 이화여자대학교 사이버보안전공 재학
@@ -25,6 +26,7 @@
   - (2021.11 ~ 2021.12) 악성 pdf 탐지 웹사이트 풀스택 개발
   - (2021.06 ~ 2021.07) 2022 Sillicon Vally AI-Fullstack Internship 페이스 스왑 서비스 "WEIRD MUSEUM" AI, 백엔드 개발
  
+<br/>  
 
  ##  LEARNING...
  
@@ -40,6 +42,7 @@
 ### ⚡ I've used 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> 
 
+<br/>  
 
 ## 📎 Contact ME
 <a href="mailto:hanee15@ewhain.net"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
